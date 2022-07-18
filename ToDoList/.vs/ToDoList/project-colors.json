@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16c8cd57-8fb9-4b41-89bb-ee41c23c4ce0": {
+      "ProjectGuid": "16c8cd57-8fb9-4b41-89bb-ee41c23c4ce0",
+      "DisplayName": "ToDoList",
+      "ColorIndex": 0
+    },
+    "1cd0a312-acf0-43c8-8050-6b2b4afd6459": {
+      "ProjectGuid": "1cd0a312-acf0-43c8-8050-6b2b4afd6459",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "04f91dc3-9de5-4049-af05-314c99d0607e": {
+      "ProjectGuid": "04f91dc3-9de5-4049-af05-314c99d0607e",
+      "DisplayName": "ToDoListTests",
+      "ColorIndex": 2
+    },
+    "da36023b-f3cd-4259-a65f-dec4760cc370": {
+      "ProjectGuid": "da36023b-f3cd-4259-a65f-dec4760cc370",
+      "DisplayName": "ToDoListTests",
+      "ColorIndex": 3
+    },
+    "fd97033e-2869-4d55-aa8a-e4f820d6efc0": {
+      "ProjectGuid": "fd97033e-2869-4d55-aa8a-e4f820d6efc0",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
